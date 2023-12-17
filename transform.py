@@ -29,7 +29,7 @@ convert_uppercase_punctuation_to_lowercase = {
     '?' : '/',
     ':' : ';',
 }
-    
+
 
 transform = {
     "tab" : { HAND_KEY : Hand.LEFT, CHORD_PART_KEY: ChordPart.FINGER, CHORD_KEY : "j"},
